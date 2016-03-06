@@ -1,0 +1,112 @@
+body {
+	background-image: url("../images/grid.jpg");
+font-family: 'Open Sans', sans-serif;
+}
+#footer {
+	background-color: black;
+	color: #aaaaaa;
+	padding-top: 3em;
+	padding-bottom: 3em;
+
+}
+#footer a{
+	color: #aaaaaa;
+}
+
+#footer a:hover {
+	color:#dddddd;
+	}
+
+.social a{
+		font-size: 28px;
+		font-color: white;
+}
+
+#wrapper {
+	background-image: url("../images/background.jpg");
+	height: 500px;
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	color: black;
+
+}
+
+#wrapper h1 {
+	font-size: 72px;
+}
+
+#wrapper h2 {
+	font-size: 28px;
+	font-weight: bold;
+	margin-bottom: -0.5em;
+}
+#wrapper button {
+	margin-top: 3em;
+	font-color: white;
+}
+
+#wrapper h3 {
+	font-size: 28px;
+	font-weight: bold;
+	margin-bottom: 0.6em;
+}
+.spacer {
+	height: 2em;
+}
+#resume {
+	
+	text-align: center;
+}
+
+.feature p {
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+.feature img {
+	margin-bottom: 2em;
+}
+
+.navbar-transparent {
+	background-color: rgb(255,255,255);
+}
+.navbar-transparent {
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: black;
+  line-height: 30px;
+}
+
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: black;
+  background-color: white;
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: black;
+}
+
+.social {
+	padding-left: 2em
+} 
+
+#projects {
+	text-align: center;
+	margin-top: 70px;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-bottom: 40px;
+
+}
+
