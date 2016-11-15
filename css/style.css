@@ -110,3 +110,6 @@ font-family: 'Open Sans', sans-serif;
 
 }
 
+#projects img {
+ size: cover;
+}
